@@ -1,4 +1,5 @@
 <?php
+
 require_once ('cla_input_v1.class.php');
 
 class cla_inputText_v1 extends cla_input_v1 {
